@@ -158,7 +158,7 @@ fibonacci.h (заголовочный файл):
 // Объявление функции вычисления чисел Фибоначчи
 int fibonacci(int n);
 ```
-fibonacci.cpp (реализация):
+fibonacci0.cpp (реализация):
 ```cpp
 #include "fibonacci.h"  // Включаем наш заголовочный файл
 
